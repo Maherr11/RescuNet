@@ -10,7 +10,7 @@ export default function Footer() {
                 </div>
                 <p className="text-slate-500 text-sm">© 2025 RescuNet. Built for the future of emergency response.</p>
                 <div className="flex gap-4">
-                    <a href="https://github.com/YoussefElebiary/RescuNet" className="text-slate-400 hover:text-white transition-colors"><Github className="w-5 h-5" /></a>
+                    <a href="https://github.com/Maherr11/RescuNet" className="text-slate-400 hover:text-white transition-colors"><Github className="w-5 h-5" /></a>
                     {/* <a href="#" className="text-slate-400 hover:text-white transition-colors"><Twitter className="w-5 h-5" /></a> */}
                 </div>
             </div>
